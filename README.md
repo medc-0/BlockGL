@@ -74,6 +74,6 @@ I chose to make a minecraft clone project because I wanted to learn more about c
 - [lodepng](https://github.com/lvandeve/lodepng) - for loading PNG textures
 
 # Credits
-### @omedcodes
+### @medc-0
 ### @isti01
 ### @WSAL Evan
